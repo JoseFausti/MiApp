@@ -1,0 +1,7 @@
+Los pasos para vincular IntelliJ IDEA con GitHub, crear una nueva rama y colaborar en un proyecto grupal no son del todo
+complejos, pero pueden presentar una leve dificultad en la ejecución de los pasos, que varia según nuestro nivel de 
+experiencia en programación.
+IntelliJ IDEA proporciona una interfaz gráfica que facilita la realización de muchas de estas tareas, lo que puede 
+hacer que el proceso sea más accesible. 
+Concluyo que con la práctica y la experiencia, nos sentiremos cada vez más cómodos y eficientes en la 
+gestión de "proyectos de desarrollo en grupo" o "proyectos de desarrollo de software en grupo".
